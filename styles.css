@@ -1,11 +1,19 @@
-h1 {
+.heading {
     color: gold;
-    background-color: royalblue;
-    font-family: fantasy, 'Times New Roman';
+    background-color: #4169e1;
+    font-family: cursive, 'Times New Roman';
+    font-size: 50px;
+    padding: 10px 10px 10px 10px;
+    text-align: center;
+    border: 10px solid purple;
+    display: block;
+    margin: 10px 200px 10px 200px;
 }
 
-ul {
+.recipes {
     color: royalblue;
     background-color: gold;
-    font-family: fantasy, 'Times New Roman';
+    font-family: cursive, 'Times New Roman';
+    font-size: 20px;
+    border: 10px solid purple;
 }
